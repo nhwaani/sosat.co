@@ -1,0 +1,75 @@
+baseURL: "https://www.sosat.co/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Sosat"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Sosat"
+  description: "To serve the true islamic message based on Allah's Quran, Muhammad's ﷺ Sunnah & according to Understanding of the Pious Predecessors (Faham and Manhaj of Salaf-i-Soliheen)."
+
+  images:
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "Baba Demb link Road, Near newly built Fountain, Fateh Kadal, Srinagar, Jammu and Kashmir 190001"
+
+  contact:
+    - "strangejoker09@gamail.com"
+    - "207.555.0119"
+
+  copyright: "© 2023 Sosat (Society Of Tawheed & Sunnah)"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#services"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+  buttons:
+    - name: "Book a call"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#banner"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+
+taxonomies:
+  series: "series"
+  tags: "tags"

@@ -1,0 +1,15 @@
+enabled: true
+id: "banner"
+
+content:
+  title: "SOSAT **Society Of Tawheed & Sunnah**"
+  text: "To serve the true islamic message based on Allah's Quran, Muhammad's ﷺ Sunnah & according to Understanding of the Pious Predecessors (Faham and Manhaj of Salaf-i-Soliheen)"
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#services"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+

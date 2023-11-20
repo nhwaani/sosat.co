@@ -1,0 +1,8 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "To Donate for the cause!"
+  button:
+    label: "Let's talk"
+    url: ""
